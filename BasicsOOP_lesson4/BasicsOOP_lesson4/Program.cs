@@ -10,7 +10,11 @@ namespace BasicsOOP_lesson4
     {
         static void Main(string[] args)
         {
+            House house = new House();
+            
 
+            Console.WriteLine(house.BuildingNumber );
+            Console.ReadLine();
 
 
 
