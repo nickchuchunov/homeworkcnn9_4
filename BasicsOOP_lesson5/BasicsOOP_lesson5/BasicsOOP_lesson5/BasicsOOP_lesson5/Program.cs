@@ -17,8 +17,6 @@ namespace BasicsOOP_lesson5
 
 
 
-
-
         }
     }
 }

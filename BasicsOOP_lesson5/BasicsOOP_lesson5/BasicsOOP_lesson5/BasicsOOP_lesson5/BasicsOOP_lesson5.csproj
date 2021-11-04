@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{435797F8-5848-46A0-9762-9F74A7D732C5}</ProjectGuid>
+    <ProjectGuid>{5F38CC44-044A-4D34-B6A3-401C2E7AB734}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>BasicsOOP_lesson5</RootNamespace>
     <AssemblyName>BasicsOOP_lesson5</AssemblyName>
@@ -45,9 +45,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Task1\RationalNumber.cs" />
+    <Compile Include="Task2\ComplexNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
