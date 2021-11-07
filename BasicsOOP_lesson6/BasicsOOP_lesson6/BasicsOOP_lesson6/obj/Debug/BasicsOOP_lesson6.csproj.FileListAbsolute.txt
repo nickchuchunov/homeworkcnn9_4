@@ -1,0 +1,7 @@
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\bin\Debug\BasicsOOP_lesson6.exe.config
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\bin\Debug\BasicsOOP_lesson6.exe
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\bin\Debug\BasicsOOP_lesson6.pdb
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\obj\Debug\BasicsOOP_lesson6.csproj.AssemblyReference.cache
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\obj\Debug\BasicsOOP_lesson6.csproj.CoreCompileInputs.cache
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\obj\Debug\BasicsOOP_lesson6.exe
+H:\homeworkcnn9.4\BasicsOOP_lesson6\BasicsOOP_lesson6\BasicsOOP_lesson6\obj\Debug\BasicsOOP_lesson6.pdb
